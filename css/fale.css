@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.link-fale {
+	display: none !important;
+}
+.link-home {
+	border-right: solid 1px #b7c7d5;
+	padding: .612em .9em;
+	margin: 0 .8em;
+}
+.menu-movel li:last-child a {
+	background: #00498e;
+	color: #ffffff;
+}
